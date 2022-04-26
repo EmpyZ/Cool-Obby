@@ -39,4 +39,5 @@ for i , teles in pairs(teleporters:GetDescendants()) do
 			end
 		end)
 	end
-end```
+end
+```
