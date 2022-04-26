@@ -1,5 +1,5 @@
 --------------------------------TELEPORT----------------------------------
-```Lua
+
 local replicatedSt = game:GetService("ReplicatedStorage")
 local serverSt = game:GetService("ServerStorage")
 local plrService = game:GetService("Players")
@@ -40,4 +40,3 @@ for i , teles in pairs(teleporters:GetDescendants()) do
 		end)
 	end
 end
-```
