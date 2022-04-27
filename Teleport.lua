@@ -1,5 +1,3 @@
-``` luau
-
 --------------------------------TELEPORT----------------------------------
 
 local replicatedSt = game:GetService("ReplicatedStorage")
@@ -42,5 +40,3 @@ for i , teles in pairs(teleporters:GetDescendants()) do
 		end)
 	end
 end
-
-```
