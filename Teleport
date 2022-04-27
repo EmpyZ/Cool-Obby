@@ -1,4 +1,4 @@
-``` lua
+``` luau
 --------------------------------TELEPORT----------------------------------
 
 local replicatedSt = game:GetService("ReplicatedStorage")
